@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0"
+  },
+  "name": "javascript-typescript",
+  "description": "学习 javascript/typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likai-a/javascript-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likai-a/javascript-typescript/issues"
+  },
+  "homepage": "https://github.com/likai-a/javascript-typescript#readme"
+}
